@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shivam 👋
 
-<!--
-**shivamnmm24422/shivamnmm24422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+I'm currently learning Data Analytics and building my skills through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 About Me
+- 📚 Learning Data Analytics step by step.
+- 💻 Exploring SQL, Python and Data Visualization.
+- 🗄️ Completed MySQL fundamentals.
+- 🚀 Interested in solving real-world data problems.
+- 🌱 Focused on continuous learning and project building.
+
+### 🛠️ Skills & Technologies
+- **Database:** MySQL
+- **Programming:** Python (Basics)
+- **Data Analysis:** Pandas (Basics)
+- **Spreadsheet:** Microsoft Excel
+- **Visualization:** Power BI (Learning)
+
+### 📌 Current Focus
+Building practical Data Analytics projects and improving my problem-solving skills.
+
+### 🤝 Connect With Me
+Feel free to explore my repositories and follow my learning journey!
